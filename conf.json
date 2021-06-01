@@ -1,0 +1,15 @@
+{
+	"slack": {
+		"host": "<IP>",
+		"port": <port>,
+		"log_file_name": "<path to logs>",
+		"client_id": "<client id from slack app>",
+		"client_secret": "<client secret from slack app>",
+		"token": "<client token from slack app>",
+		"bot_user_token": "<bot token from slack app>"
+	},
+	"huntbox": {
+		"url": "https://huntbox.group-ib.com",
+		"token": "<THF Huntbox Token>"
+	}
+}
