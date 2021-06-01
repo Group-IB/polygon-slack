@@ -19,7 +19,9 @@ Pick a name and choose a workspace to install your app to.
 #### Set up the events subscription
 
 You need to subscribe Bot to your Slack events.
+```
 Request URL: "https://<bot-application-url>/listening"
+```
 
 #### Set up the scopes for the Bot Token
 
